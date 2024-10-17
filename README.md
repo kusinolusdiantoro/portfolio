@@ -9,7 +9,7 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 ## Experience
 ___
 <img src="assets/rs_ciremai.png" alt="Hospital Logo" width="50" height="50" style="vertical-align: middle;"> 
-<span style="display: inline-block; margin-bottom: 0px;">**Clinical Practice - Medical Records Departement**</span>  
+<strong style="display: inline-block; margin-bottom: 0px;">Clinical Practice - Medical Records Departement</strong>  
 <p style="padding-left: 60px; margin-top: -10px;">
   <em>Rumah Sakit Ciremai (Feb 2024 - Mar 2024)</em><br>  
   <em>Kota Cirebon, Jawa Barat, Indonesia</em>
