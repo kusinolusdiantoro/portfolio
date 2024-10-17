@@ -6,5 +6,5 @@ I specialize in collaborating with healthcare teams, managing time effectively, 
 I am open to new opportunities in healthcare service facilities. Feel free to contact me at kusino72@gmail.com for potential collaborations or job opportunities.
 
 ## Experience
-**Clinical Practice - Medical Records Departement** 
-Rumah Sakit Ciremai (12 Feb 2024 -  9 Maret 2024)
+**Clinical Practice - Medical Records Departement**  
+*Rumah Sakit Ciremai (12 Feb 2024 -  9 Maret 2024)*
