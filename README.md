@@ -25,3 +25,19 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)*  
 *Cirebon, Jawa Barat, Indonesia*  
+
+## Education  
+**Poltekke Kemenkes Tasikmalaya**  
+*A.Md.Kes - DIII - Rekam Medis dan Informasi Kesehatan*  
+*IPK : 3,74*  
+*2021 - 2024*  
+Activities and Societies:  
+I am currently pursuing a Diploma in Medical Records and Health Information, focusing on patient data management, medical coding (ICD-10), and the use of health information systems in healthcare settings. My courses provide comprehensive knowledge in:
+- Health data management and medical record storage
+- Medical coding and classification (ICD-10)
+- Hospital information systems (HIS) and electronic medical records (EHR)
+- Legal and ethical aspects of health information
+During my studies, I completed several internships in leading healthcare institutions, gaining hands-on experience in managing medical records, processing claims, and healthcare reporting. In addition, I am actively involved in community service activities where I take part in outreach activities in healthcare centers to improve the quality of medical record services and the efficiency of health information management.
+
+
+
