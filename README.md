@@ -64,7 +64,16 @@ Sistem Informasi Posyandu merupakan sistem pelayanan posyandu berbasis website y
 **Community Service**  
 *Puskesmas Jagasatru (Okt 2022)*  
 Description :  
-Pengabdian kepada masyarakat menjadi salah satu dari tri dharma perguruan tinggi yang rutin dilakukan oleh poltekkes kemenkes tasikmalaya dengan tujuan update informasi atau pemberian pelatihan kepada pemberi layanan medis seperti puskesmas dan sebagainya.
+Pengabdian kepada masyarakat menjadi salah satu dari tri dharma perguruan tinggi yang rutin dilakukan oleh poltekkes kemenkes tasikmalaya dengan tujuan update informasi atau pemberian pelatihan kepada pemberi layanan medis seperti puskesmas dan sebagainya.  
+
+## Languages  
+**Bahasa Indonesia**  
+*Native or bilingual proficiency*  
+
+**Bahasa Inggris**  
+*Limited working proficiency*  
+
+
 
 
 
