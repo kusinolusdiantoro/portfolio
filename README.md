@@ -1,13 +1,14 @@
-## About
-___
+## About  
+
 Hello Everyone! I’m Kusino, a graduate of the Medical Records and Health Information Diploma from Poltekkes Kemenkes Tasikmalaya. I’ve had the opportunity to gain clinical experience at several healthcare facilities, including RS Sumber Waras, Puskesmas Palimanan, RSUD Prof. Dr. Margono Soekarjo, RSUP Dr. Hasan Sadikin Bandung, and RS Ciremai.
 
 I specialize in collaborating with healthcare teams, managing time effectively, and ensuring accuracy in all tasks. My expertise includes electronic medical record management, health data analysis, coding (ICD), and maintaining strict patient confidentiality. Additionally, I’m proficient in utilizing hospital information systems (SIMRS), and I am eager to contribute as a dedicated and reliable Medical Records professional, fully committed to improving healthcare service quality.
 
-I am open to new opportunities in healthcare service facilities. Feel free to contact me at kusino72@gmail.com for potential collaborations or job opportunities.
+I am open to new opportunities in healthcare service facilities. Feel free to contact me at kusino72@gmail.com for potential collaborations or job opportunities.  
+___
 
 ## Experience
-___
+
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Ciremai (Feb 2024 - Mar 2024)*  
 *Kota Cirebon, Jawa Barat, Indonesia*  
@@ -27,9 +28,10 @@ ___
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)*  
 *Cirebon, Jawa Barat, Indonesia*  
+___
 
 ## Education
-___
+
 **Poltekkes Kemenkes Tasikmalaya**  
 *A.Md.Kes - DIII - Rekam Medis dan Informasi Kesehatan*  
 *IPK : 3,74*  
@@ -43,9 +45,10 @@ I am currently pursuing a Diploma in Medical Records and Health Information, foc
 - Legal and ethical aspects of health information
 
 During my studies, I completed several internships in leading healthcare institutions, gaining hands-on experience in managing medical records, processing claims, and healthcare reporting. In addition, I am actively involved in community service activities where I take part in outreach activities in healthcare centers to improve the quality of medical record services and the efficiency of health information management.  
+___
 
 ## Project & Publication
-___
+
 **[Hak Cipta APLIKASI E-VOTING PEMILIHAN KETUA HIMA PRODI DIII RMIK CIREBON POLTEKKES KEMENKES TASIKMALAYA](https://e-hakcipta.dgip.go.id/index.php/c?code=NzAwMGVhNjI2NTE1NzlmZjVkMzZkNzBmZGMwNWI1MDEK)**  
 *published on: July 2024*  
 Description :  
@@ -65,6 +68,7 @@ Sistem Informasi Posyandu merupakan sistem pelayanan posyandu berbasis website y
 *Puskesmas Jagasatru (Okt 2022)*  
 Description :  
 Pengabdian kepada masyarakat menjadi salah satu dari tri dharma perguruan tinggi yang rutin dilakukan oleh poltekkes kemenkes tasikmalaya dengan tujuan update informasi atau pemberian pelatihan kepada pemberi layanan medis seperti puskesmas dan sebagainya.  
+___
 
 ## Languages  
 **Bahasa Indonesia**  
@@ -72,6 +76,7 @@ Pengabdian kepada masyarakat menjadi salah satu dari tri dharma perguruan tinggi
 
 **Bahasa Inggris**  
 *Limited working proficiency*  
+___
 
 
 
