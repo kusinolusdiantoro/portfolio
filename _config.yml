@@ -1,5 +1,5 @@
 logo: /assets/uus_medium.png
 title: Kusino Lusdiantoro A.Md.Kes
 description: Medical Record and Health Information 
-# show download: true
+show_download: true
 theme: jekyll-theme-minimal
