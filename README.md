@@ -46,6 +46,11 @@ During my studies, I completed several internships in leading healthcare institu
 
 ## Project & Publication
 ___
+**[Hak Cipta APLIKASI E-VOTING PEMILIHAN KETUA HIMA PRODI DIII RMIK CIREBON POLTEKKES KEMENKES TASIKMALAYA](https://e-hakcipta.dgip.go.id/index.php/c?code=NzAwMGVhNjI2NTE1NzlmZjVkMzZkNzBmZGMwNWI1MDEK)**  
+*published on: July 2024*  
+Description :  
+Aplikasi E-Voting merupakah aplikasi berbasis website yang dibuat dengan tujuan mempermudah proses pemilihan Ketua HIMA RMIK serta mempermudah dan mempercepat proses perhitungan hasil voting.
+
 **[Indonesian Health Information Journal](https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430)**  
 *Publication : Mei 2024*  
 Description :  
