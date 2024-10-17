@@ -81,11 +81,15 @@ ___
 ___
 
 ## Education
-
-**Poltekkes Kemenkes Tasikmalaya**  
-*A.Md.Kes - DIII - Rekam Medis dan Informasi Kesehatan*  
-*IPK : 3,74*  
-*2021 - 2024* 
+<div class="responsive-container clinical-practice">
+  <img src="assets/poltek.png" alt="Hospital Logo" class="kampus-logo">
+    <div>
+    <strong>Poltekkes Kemenkes tasikmalaya</strong><br>
+    <em>A.Md.Kes - DIII - Rekam Medis dan Informasi Kesehatan</em><br>
+    <em>IPK : 3,74</em><br>
+    <em>2021 - 2024</em>
+  </div>
+</div>
 
 Activities and Societies:  
 I am currently pursuing a Diploma in Medical Records and Health Information, focusing on patient data management, medical coding (ICD-10), and the use of health information systems in healthcare settings. My courses provide comprehensive knowledge in:  
