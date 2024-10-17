@@ -7,5 +7,4 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 
 ## Experience
 **Clinical Practice - Medical Records Departement** 
-
 *Rumah Sakit Ciremai (12 Feb 2024 -  9 Maret 2024)*
