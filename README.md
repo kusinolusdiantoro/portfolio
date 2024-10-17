@@ -48,9 +48,9 @@ During my studies, I completed several internships in leading healthcare institu
 ___
 **Jurnal Informasi Kesehatan Indonesia**  
 *Publication : Mei 2024*  
-*url : https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430*  
+*url : (https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430)*  
 Description :  
-Penelitian menganai pembuatan ***prototype sistem informasi posyandu berbasis web*** yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.
+Penelitian menganai pembuatan prototype sistem informasi posyandu berbasis web yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.
 
 
 
