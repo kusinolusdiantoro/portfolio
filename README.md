@@ -15,6 +15,7 @@ ___
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-buttom : 10px;
   }
 
   .hospital-logo {
