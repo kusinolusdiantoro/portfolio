@@ -9,14 +9,11 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 ## Experience
 ___
 <img src="assets/rs_ciremai.png" alt="Hospital Logo" width="50" height="50" style="vertical-align: middle;"> 
-<strong style="margin-bottom: -10; display: inline-block;">Clinical Practice - Medical Records Departement</strong>  
-<p style="padding-left: 60px; margin-top: -10;">
+<span style="display: inline-block; margin-bottom: 0px;">**Clinical Practice - Medical Records Departement**</span>  
+<p style="padding-left: 60px; margin-top: -10px;">
   <em>Rumah Sakit Ciremai (Feb 2024 - Mar 2024)</em><br>  
   <em>Kota Cirebon, Jawa Barat, Indonesia</em>
 </p>
-
-
-
 
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)*  
