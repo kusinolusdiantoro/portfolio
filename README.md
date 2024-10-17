@@ -46,11 +46,23 @@ During my studies, I completed several internships in leading healthcare institu
 
 ## Project & Publication
 ___
-**Jurnal Informasi Kesehatan Indonesia**  
+**Indonesian Health Information Journal**  
 *Publication : Mei 2024*  
-[Link ke Artikel](https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430)  
+[Publication](https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430)  
 Description :  
-Penelitian menganai pembuatan prototype sistem informasi posyandu berbasis web yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.
+Penelitian menganai pembuatan prototype sistem informasi posyandu berbasis web yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.  
+
+**Posyandu Information System**
+*project : Apr 2024*
+[Project](http://118.97.196.34:8070/sipandu)  
+Description :  
+Sistem Informasi Posyandu merupakan sistem pelayanan posyandu berbasis website yang dapat digunakan untuk melakukan pencatatan terhadap pelayanan yang ada di posyandu seperti pelayanan imunisasi dan penimbangan, selain itu juga terdapat fitur unggulan yaitu fitur KMS online dan juga pemantauan tumbu kembang dan perkembangan stimulasi anak.  
+
+**Community Service**
+*Puskesmas Jagasatru (Okt 2022)*  
+Description :  
+Pengabdian kepada masyarakat menjadi salah satu dari tri dharma perguruan tinggi yang rutin dilakukan oleh poltekkes kemenkes tasikmalaya dengan tujuan update informasi atau pemberian pelatihan kepada pemberi layanan medis seperti puskesmas dan sebagainya.
+
 
 
 
