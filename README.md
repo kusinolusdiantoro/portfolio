@@ -7,4 +7,21 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 
 ## Experience
 **Clinical Practice - Medical Records Departement**  
-*Rumah Sakit Ciremai (12 Feb 2024 -  9 Maret 2024)*
+*Rumah Sakit Ciremai (Feb 2024 -  Mar 2024)*  
+*Kota Cirebon, Jawa Barat, Indonesia*  
+
+**Clinical Practice - Medical Records Departement**  
+*Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)*  
+*Bandung, Jawa Barat, Indonesia*  
+
+**Clinical Practice - Medical Records Departement**  
+*RSUD Prof. Dr. Margono Soekarjo (Mei 2023 - Mei 2023)*  
+*Purwokerto, Jawa Tengah, Indonesia*
+
+**Clinical Practice - Medical Records Departement**  
+*Puskesmas Palimanan (Nov 2022 - Nov 2022)*  
+*Cirebon, Jawa Barat, Indonesia*  
+
+**Clinical Practice - Medical Records Departement**  
+*Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)*  
+*Cirebon, Jawa Barat, Indonesia*  
