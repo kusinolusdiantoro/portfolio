@@ -13,13 +13,13 @@ ___
 <style>
   .responsive-container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     padding-bottom: 10px; /* Perbaiki typo dari padding-buttom menjadi padding-bottom */
   }
 
   .hospital-logo {
     width: 50px; /* ukuran default */
+    margin-right: 10px; /* Menambahkan margin kanan agar ada jarak antara logo dan teks */
   }
 
   @media (max-width: 600px) {
@@ -34,12 +34,12 @@ ___
 </style>
 
 <div class="responsive-container clinical-practice">
+  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
   <div>
     <strong>Clinical Practice - Medical Records Departement</strong><br>
     <em>Rumah Sakit Ciremai (Feb 2024 - Mar 2024)</em><br>
     <em>Kota Cirebon, Jawa Barat, Indonesia</em>
   </div>
-  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
 </div>
 
 <div class="clinical-practice">
@@ -47,7 +47,6 @@ ___
   <em>Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)</em><br>
   <em>Bandung, Jawa Barat, Indonesia</em>
 </div>
-
 
 **Clinical Practice - Medical Records Departement**  
 *RSUD Prof. Dr. Margono Soekarjo (Mei 2023 - Mei 2023)*  
