@@ -7,6 +7,7 @@ I specialize in collaborating with healthcare teams, managing time effectively, 
 I am open to new opportunities in healthcare service facilities. Feel free to contact me at kusino72@gmail.com for potential collaborations or job opportunities.
 
 ## Experience
+___
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Ciremai (Feb 2024 -  Mar 2024)*  
 *Kota Cirebon, Jawa Barat, Indonesia*  
@@ -27,7 +28,8 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 *Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)*  
 *Cirebon, Jawa Barat, Indonesia*  
 
-## Education  
+## Education
+___
 **Poltekkes Kemenkes Tasikmalaya**  
 *A.Md.Kes - DIII - Rekam Medis dan Informasi Kesehatan*  
 *IPK : 3,74*  
