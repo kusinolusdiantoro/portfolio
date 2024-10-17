@@ -10,9 +10,33 @@ ___
 
 ## Experience
 
-**Clinical Practice - Medical Records Departement**  
-*Rumah Sakit Ciremai (Feb 2024 - Mar 2024)*  
-*Kota Cirebon, Jawa Barat, Indonesia*  
+<style>
+  .responsive-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .hospital-logo {
+    width: 50px; /* ukuran default */
+  }
+
+  @media (max-width: 600px) {
+    .hospital-logo {
+      width: 30px; /* ukuran lebih kecil pada layar kecil */
+    }
+  }
+</style>
+
+<div class="responsive-container">
+  <div>
+    <strong>Clinical Practice - Medical Records Departement</strong><br>
+    <em>Rumah Sakit Ciremai (Feb 2024 - Mar 2024)</em><br>
+    <em>Kota Cirebon, Jawa Barat, Indonesia</em>
+  </div>
+  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+</div>
+
 
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)*  
