@@ -10,7 +10,7 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 ___
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Ciremai (Feb 2024 - Mar 2024)*  
-*Bandung, Jawa Barat, Indonesia*  
+*Kota Cirebon, Jawa Barat, Indonesia*  
 
 **Clinical Practice - Medical Records Departement**  
 *Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)*  
@@ -42,7 +42,17 @@ I am currently pursuing a Diploma in Medical Records and Health Information, foc
 - Hospital information systems (HIS) and electronic medical records (EHR)
 - Legal and ethical aspects of health information
 
-During my studies, I completed several internships in leading healthcare institutions, gaining hands-on experience in managing medical records, processing claims, and healthcare reporting. In addition, I am actively involved in community service activities where I take part in outreach activities in healthcare centers to improve the quality of medical record services and the efficiency of health information management.
+During my studies, I completed several internships in leading healthcare institutions, gaining hands-on experience in managing medical records, processing claims, and healthcare reporting. In addition, I am actively involved in community service activities where I take part in outreach activities in healthcare centers to improve the quality of medical record services and the efficiency of health information management.  
+
+## Project & Publication
+___
+**Jurnal Informasi Kesehatan Indonesia**  
+*Publication : Mei 2024*  
+*url : https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430*  
+Description :  
+Penelitian menganai pembuatan ***prototype sistem informasi posyandu berbasis web*** yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.
+
+
 
 
 
