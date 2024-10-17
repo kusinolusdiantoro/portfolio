@@ -82,7 +82,7 @@ ___
 
 ## Education
 <div class="responsive-container clinical-practice">
-  <img src="assets/poltek.png" alt="Hospital Logo" class="hospital-logo">
+  <img src="assets/poltek2.png" alt="Hospital Logo" class="hospital-logo">
     <div>
     <strong>Poltekkes Kemenkes tasikmalaya</strong><br>
     <em>A.Md.Kes - DIII - Rekam Medis dan Informasi Kesehatan</em><br>
