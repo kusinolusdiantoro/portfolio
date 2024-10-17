@@ -43,7 +43,7 @@ ___
 </div>
 
 <div class="responsive-container clinical-practice">
-  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+  <img src="assets/rshs.png" alt="Hospital Logo" class="hospital-logo">
     <div>
     <strong>Clinical Practice - Medical Records Departement</strong><br>
     <em>Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)</em><br>
@@ -52,7 +52,7 @@ ___
 </div>
 
 <div class="responsive-container clinical-practice">
-  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+  <img src="assets/margono.png" alt="Hospital Logo" class="hospital-logo">
     <div>
     <strong>Clinical Practice - Medical Records Departement</strong><br>
     <em>RSUD Prof. Dr. Margono Soekarjo (Mei 2023 - Mei 2023)</em><br>
@@ -61,7 +61,7 @@ ___
 </div>
 
 <div class="responsive-container clinical-practice">
-  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+  <img src="assets/pkm.png" alt="Hospital Logo" class="hospital-logo">
     <div>
     <strong>Clinical Practice - Medical Records Departement</strong><br>
     <em>Puskesmas Palimanan (Nov 2022 - Nov 2022)</em><br>
@@ -70,7 +70,7 @@ ___
 </div>
 
 <div class="responsive-container clinical-practice">
-  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+  <img src="assets/sw.png" alt="Hospital Logo" class="hospital-logo">
     <div>
     <strong>Clinical Practice - Medical Records Departement</strong><br>
     <em>Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)</em><br>
