@@ -1,6 +1,3 @@
-# KUSINO LUSDIANTORO A.Md.Kes
-Medical Record & Health Information
-
 #### About
 Hello Everyone! I’m Kusino, a graduate of the Medical Records and Health Information Diploma from Poltekkes Kemenkes Tasikmalaya. I’ve had the opportunity to gain clinical experience at several healthcare facilities, including RS Sumber Waras, Puskesmas Palimanan, RSUD Prof. Dr. Margono Soekarjo, RSUP Dr. Hasan Sadikin Bandung, and RS Ciremai.
 
@@ -10,4 +7,4 @@ I am open to new opportunities in healthcare service facilities. Feel free to co
 
 ## Experience
 **Clinical Practice - Medical Records Departement**
-RS
+*Rumah Sakit Ciremai (12 Feb 2024 -  9 Maret 2024)*
