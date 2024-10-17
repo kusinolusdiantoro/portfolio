@@ -53,7 +53,7 @@ Description :
 Penelitian menganai pembuatan prototype sistem informasi posyandu berbasis web yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.  
 
 **Posyandu Information System**  
-*project : Apr 2024*
+*project : Apr 2024*  
 [Project](http://118.97.196.34:8070/sipandu)  
 Description :  
 Sistem Informasi Posyandu merupakan sistem pelayanan posyandu berbasis website yang dapat digunakan untuk melakukan pencatatan terhadap pelayanan yang ada di posyandu seperti pelayanan imunisasi dan penimbangan, selain itu juga terdapat fitur unggulan yaitu fitur KMS online dan juga pemantauan tumbu kembang dan perkembangan stimulasi anak.  
