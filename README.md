@@ -24,7 +24,7 @@ ___
 
   @media (max-width: 600px) {
     .hospital-logo {
-      width: 30px; /* ukuran lebih kecil pada layar kecil */
+      display: none; /* Menyembunyikan logo pada layar kecil */
     }
   }
 
