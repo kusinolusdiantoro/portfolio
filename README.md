@@ -42,23 +42,41 @@ ___
   </div>
 </div>
 
-<div class="clinical-practice">
-  <strong>Clinical Practice - Medical Records Departement</strong><br>
-  <em>Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)</em><br>
-  <em>Bandung, Jawa Barat, Indonesia</em>
+<div class="responsive-container clinical-practice">
+  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+    <div>
+    <strong>Clinical Practice - Medical Records Departement</strong><br>
+    <em>Rumah Sakit Umum Pusat Dr. Hasan Sadikin Bandung (Aug 2023 - Sep 2023)</em><br>
+    <em>Bandung, Jawa Barat, Indonesia</em>
+  </div>
 </div>
 
-**Clinical Practice - Medical Records Departement**  
-*RSUD Prof. Dr. Margono Soekarjo (Mei 2023 - Mei 2023)*  
-*Purwokerto, Jawa Tengah, Indonesia*
+<div class="responsive-container clinical-practice">
+  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+    <div>
+    <strong>Clinical Practice - Medical Records Departement</strong><br>
+    <em>RSUD Prof. Dr. Margono Soekarjo (Mei 2023 - Mei 2023)</em><br>
+    <em>Purwokerto, Jawa Tengah, Indonesia</em>
+  </div>
+</div>
 
-**Clinical Practice - Medical Records Departement**  
-*Puskesmas Palimanan (Nov 2022 - Nov 2022)*  
-*Cirebon, Jawa Barat, Indonesia*  
+<div class="responsive-container clinical-practice">
+  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+    <div>
+    <strong>Clinical Practice - Medical Records Departement</strong><br>
+    <em>Puskesmas Palimanan (Nov 2022 - Nov 2022)</em><br>
+    <em>Cirebon, Jawa Barat, Indonesia</em>
+  </div>
+</div>
 
-**Clinical Practice - Medical Records Departement**  
-*Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)*  
-*Cirebon, Jawa Barat, Indonesia*  
+<div class="responsive-container clinical-practice">
+  <img src="assets/rs_ciremai.png" alt="Hospital Logo" class="hospital-logo">
+    <div>
+    <strong>Clinical Practice - Medical Records Departement</strong><br>
+    <em>Rumah Sakit Sumber Waras (Mar 2022 - Apr 2022)</em><br>
+    <em>Cirebon, Jawa Barat, Indonesia</em>
+  </div>
+</div>
 
 ___
 
