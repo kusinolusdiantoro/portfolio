@@ -135,6 +135,10 @@ ___
 
 ___
 
+## Social Media  
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ksnlsdntr)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:your-kusino72@gmail.com)
+
 
 
 
