@@ -110,12 +110,12 @@ Description :
 Aplikasi E-Voting merupakah aplikasi berbasis website yang dibuat dengan tujuan mempermudah proses pemilihan Ketua HIMA RMIK serta mempermudah dan mempercepat proses perhitungan hasil voting.
 
 **[Indonesian Health Information Journal](https://ojs.poltekkes-malang.ac.id/index.php/JIKI/article/view/4430)**  
-*Publication : Mei 2024*  
+*published on : Mei 2024*  
 Description :  
 Penelitian menganai pembuatan prototype sistem informasi posyandu berbasis web yang dibuat dengan tujuan agar dapat membantu proses dalam pelayanan pemantauan tumbuh kembang anak agar lebih efisien. Prototype Sistem Informasi Posyandu dibekali dengan fitur fitur unggulan seperti fitur pelayanan imunisasi, pelayanan penimbangan dan yang paling penting yaitu terdapat fitur KMS dan juga pemantauan tumbuh kembang dan stimulasi anak.  
 
 **[Posyandu Information System](http://118.97.196.34:8070/sipandu)**  
-*project : Apr 2024*  
+*published on : Apr 2024*  
 Description :  
 Sistem Informasi Posyandu merupakan sistem pelayanan posyandu berbasis website yang dapat digunakan untuk melakukan pencatatan terhadap pelayanan yang ada di posyandu seperti pelayanan imunisasi dan penimbangan, selain itu juga terdapat fitur unggulan yaitu fitur KMS online dan juga pemantauan tumbu kembang dan perkembangan stimulasi anak.  
 
