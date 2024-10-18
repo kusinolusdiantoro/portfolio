@@ -9,4 +9,4 @@ sass:
   style: compressed
 
 # Add this in your custom CSS section or a new CSS file
-custom_css: custom.css
+custom_css: true
