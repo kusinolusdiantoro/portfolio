@@ -136,10 +136,11 @@ ___
 ___
 
 ## Social Media  
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://instagram.com/ksnlsdntr)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_icon.svg)](https://www.linkedin.com/in/kusino-lusdiantoro)
-[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo.png)](mailto:your-kusino72@gmail.com)
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/kusinolusdiantoro)  
+
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:your-kusino72@gmail.com)    
+[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ksnlsdntr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusino-lusdiantoro)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kusinolusdiantoro)  
 
 ___
 
