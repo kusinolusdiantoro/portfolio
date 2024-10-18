@@ -1,5 +1,7 @@
 title: Kusino Lusdiantoro A.Md.Kes
-small_logo: /assets/portfolio_uus.png
+logo: /assets/portfolio_uus.png
 description: Healthcare Data Analyst | Medical Coding Expert | Passionate about Accurate and Efficient Healthcare Information Management | Claims Processing | Healthcare Data Systems and EHR Management
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+custom_css: custom.css
