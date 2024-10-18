@@ -1,0 +1,4 @@
+img[src="/assets/portfolio_uus.png"] {
+    width: 100px; /* Mengatur lebar logo */
+    height: auto; /* Mempertahankan aspek rasio */
+}
