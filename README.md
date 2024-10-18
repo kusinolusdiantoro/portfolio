@@ -136,8 +136,8 @@ ___
 ___
 
 ## Social Media  
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ksnlsdntr)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:your-kusino72@gmail.com)  
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://instagram.com/ksnlsdntr)
+[![Email](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo.png)](mailto:your-kusino72@gmail.com)  
 
 ___
 
