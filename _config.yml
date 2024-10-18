@@ -3,3 +3,7 @@ logo: /assets/circle2.png
 description: Healthcare Data Analyst | Medical Coding Expert | Claims Processing | Healthcare Data Systems and EHR Management | Passionate about Accurate and Efficient Healthcare Information Management
 # show_downloads: true
 theme: jekyll-theme-minimal
+author:
+  name: "Kusino Lusdiantoro"
+  email: "kusino72@gmail.com"
+  address: "Cirebon, Jawa Barat, Indonesia" # Tambahkan alamat di sini
