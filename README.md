@@ -139,7 +139,6 @@ ___
 
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:your-kusino72@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ksnlsdntr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusino-lusdiantoro)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kusinolusdiantoro)  
 
 ___
