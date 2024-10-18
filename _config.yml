@@ -4,4 +4,5 @@ description: Healthcare Data Analyst | Medical Coding Expert | Passionate about 
 # show_downloads: true
 theme: jekyll-theme-minimal
 
-custom_css: custom.css
+# Custom styles
+custom_css: /assets/custom.css
